@@ -5,4 +5,4 @@ Simple mood tracker for a team. Anyone can post a subject and the rest of the te
 
 This also has a "big" version intended to be displayed on a large monitor.
 
-![Big Screenshot](http://jimtronic.github.io/mood-board/images/big-mood-board.png)
+![Big Screenshot](http://jimtronic.github.io/mood-board/images/big-board.png)
