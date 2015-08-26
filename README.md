@@ -6,3 +6,7 @@ Simple mood tracker for a team. Anyone can post a subject and the rest of the te
 This also has a "big" version intended to be displayed on a large monitor.
 
 ![Big Screenshot](http://jimtronic.github.io/mood-board/images/big-board.png)
+
+In big mode, the polls rotate every 5 seconds.
+
+All data is being stored using Parse and votes are erased every 24 hours.
